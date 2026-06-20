@@ -13,7 +13,7 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/your-repo/wabaileys.git"
+      "url": "git+https://github.com/Neykoor/wabaileys.git"
    },
    "files": [
       "lib/**/*",
