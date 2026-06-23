@@ -154,22 +154,6 @@ await nl.sendNewsletterButtons('123456@newsletter', {
 
 ---
 
-## Sobre la imagen del banner
-
-Para agregar tu propia imagen de banner:
-
-1. Crea una carpeta `assets/` en la raíz del proyecto.
-2. Coloca tu imagen como `assets/banner.png` (recomendado: 1200×300 px).
-3. El `<img>` del inicio del README la tomará automáticamente.
-
-Si prefieres usar una URL externa, edita la primera línea del README:
-
-```html
-<img src="https://tudominio.com/banner.png" alt="wabaileys banner" width="100%" />
-```
-
----
-
 ## Licencia
 
 MIT — [Neykoor](https://github.com/Neykoor)
